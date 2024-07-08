@@ -16,8 +16,11 @@ body {
 }
 .description {
     margin-bottom: 20px;
+    font-size: 25px;
 }
 .button {
+    width: 150px;
+    height: 50px;
     padding: 10px 20px;
     background-color: #007bff;
     color: #fff;
@@ -27,4 +30,9 @@ body {
 }
 .button:hover {
     background-color: #0056b3;
+}
+
+.btnText{
+    margin-top: -2px;
+    font-size: 25px;
 }
