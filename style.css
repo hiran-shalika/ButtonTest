@@ -8,6 +8,7 @@ body {
     background-color: #f0f0f0;
 }
 .container {
+    margin-top: -80px;
     text-align: center;
     background-color: #fff;
     padding: 20px;
