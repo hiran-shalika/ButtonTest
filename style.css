@@ -36,3 +36,22 @@ body {
     margin-top: -2px;
     font-size: 25px;
 }
+
+
+@media (max-width: 480px) {
+    .container {
+        padding: 10px;
+    }
+    .description {
+        font-size: 25px;
+    }
+    .button {
+        padding: 6px 12px;
+        font-size: 14px;
+    }
+    
+    .btnText{
+        margin-top: -2px;
+        font-size: 25px;
+    }
+}
